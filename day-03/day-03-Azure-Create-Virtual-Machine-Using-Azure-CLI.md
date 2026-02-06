@@ -1,3 +1,5 @@
+# 🚀 Day 03 – Create Azure Virtual Machine Using Azure CLI
+
 ## 🎯 Objective
 Create an **Azure Virtual Machine using the Azure CLI** as part of an incremental cloud migration.  
 This task focuses on **CLI-based resource provisioning**, which is essential when GUI access is unavailable and for automation-driven environments.
