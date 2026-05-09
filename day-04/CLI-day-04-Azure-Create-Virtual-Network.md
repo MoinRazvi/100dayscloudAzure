@@ -127,3 +127,6 @@ Completed
 This task establishes the networking foundation required for deploying and connecting future Azure resources securely within the cloud environment.
 
 ---
+
+<img width="1536" height="1024" alt="Devops-4-50" src="https://github.com/user-attachments/assets/232b2eb9-c202-4737-b6c0-d7089e893bd1" />
+
