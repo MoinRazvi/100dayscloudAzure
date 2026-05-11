@@ -208,4 +208,5 @@ Azure Region: centralus
 * Network planning is critical before deploying production workloads
 
 ---
+<img width="1536" height="1024" alt="Azure-Cloud-6-50" src="https://github.com/user-attachments/assets/9ddde7cf-30f8-40a9-95a3-856ca2a56b94" />
 
